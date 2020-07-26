@@ -1,3 +1,5 @@
+import saveOfflineRecord from "./db.js";
+
 let transactions = [];
 let myChart;
 
